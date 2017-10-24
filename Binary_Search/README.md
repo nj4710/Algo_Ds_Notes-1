@@ -63,7 +63,7 @@ end procedure
 
 ## COMPLEXITY
 
-**Time complexity**  - О(log n), where n is the number of items being sorted.
+**Time complexity**  - О(log n), where n is the number of items in the sorted array.
 
 **Space complexity** - O(1), due to auxillary space only.
 
